@@ -4,6 +4,7 @@
 
 <web-app>
     <display-name>Hello World Servlet</display-name>
+    <display-name>Hello World Servlet2</display-name>
 
     <servlet>
         <servlet-name>hello</servlet-name>
